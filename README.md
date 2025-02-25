@@ -1,5 +1,7 @@
 # mcServerQuery
 
+一个超级简单的小插件
+
 ## 安装
 
 配置完成 [LangBot](https://github.com/RockChinQ/LangBot) 主程序后使用管理员账号向机器人发送命令即可安装：
