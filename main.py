@@ -31,7 +31,7 @@ def query_minecraft_server(host, port):
     except KeyError as e:
         return {'status': 'error', 'message': f'数据字段缺失：{e}'}
 
-@register(name="MC服务器查询", description="Minecraft服务器状态查询插件", version="1.1", author="RockChinQ")
+@register(name="MC服务器查询", description="Minecraft服务器状态查询插件", version="1.0", author="yihuo")
 class MinecraftQueryPlugin(BasePlugin):
 
     def __init__(self, host: APIHost):
