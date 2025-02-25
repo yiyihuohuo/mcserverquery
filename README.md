@@ -1,4 +1,4 @@
-# mcserverquery
+# mcServerQuery
 
 <!--
 ## 插件开发者详阅
